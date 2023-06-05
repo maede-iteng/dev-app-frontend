@@ -1,0 +1,7 @@
+body{
+    /* background: rgb(99,10,93); */
+    /* background: radial-gradient(circle, rgba(99,10,93,0.9780287114845938) 0%, rgba(18,31,61,1) 100%); */
+    background-size: cover;
+    background:url("/svg/background-img.png") center center;
+    height: 100vh;
+}
