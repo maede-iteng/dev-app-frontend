@@ -30,10 +30,7 @@ export default function HomeHero() {
               >
                 Get started
               </a>
-              <a
-                href="#"
-                className="text-sm font-semibold leading-6 "
-              >
+              <a href="#" className="text-sm font-semibold leading-6 ">
                 Learn more <span aria-hidden="true">→</span>
               </a>
             </div>
